@@ -1,1 +1,2 @@
-print("Zmiana w drugim repo")
+print("Hello Poland")
+printf("Zmiana z drugiego repo")
